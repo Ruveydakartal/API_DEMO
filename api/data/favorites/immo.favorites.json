@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6479457f7cd1222188bddfa0"
+  },
+  "propertyId": "6476067a78ef06eb2a3cb14c",
+  "userId": "6474ecdd9c908b8ef19dbf85"
+},
+{
+  "_id": {
+    "$oid": "6479cb8d26171ff285e10974"
+  },
+  "propertyId": "6476067a78ef06eb2a3cb14c",
+  "userId": "64790c8007c0a4b51500c94a"
+}]

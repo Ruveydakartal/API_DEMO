@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6474ecdd9c908b8ef19dbf85"
+  },
+  "name": "Kartal",
+  "firstname": "Rüveyda",
+  "email": "ruve.kart@student.arteveldehs.be",
+  "password": "vbv",
+  "salt": "e338503c-dfe2-4b5b-8d2d-f2c2579bf6fc",
+  "saltParam": 9,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NzRlY2RkOWM5MDhiOGVmMTlkYmY4NSIsImlhdCI6MTY4NTY1NDQ0MCwiZXhwIjoxNjg1NjU0NTAwfQ.nGL2Ws_bGhfkl6DEOwacJ7qqTxauebkG9wPxUsRwiBY",
+  "role": "realtor"
+},
+{
+  "_id": {
+    "$oid": "64790be107c0a4b51500c949"
+  },
+  "name": "Uzuncam",
+  "firstname": "Aleyna",
+  "email": "ally@petite.be",
+  "password": "{\"words\":[858304805,-1611301905,1086406668,-1917817539,-1139404059,-358715372,-1494890034,1747210130],\"sigBytes\":32}",
+  "salt": "7ca565f5-6399-4b79-b348-adf7ed936176",
+  "saltParam": 5,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "64790c8007c0a4b51500c94a"
+  },
+  "name": "Kartal",
+  "firstname": "Tufan",
+  "email": "tufan@thebabbo.be",
+  "password": "{\"words\":[-1894313691,-1894509118,-1040968789,2000648102,1838517632,-224094105,-2028938534,-1886217796],\"sigBytes\":32}",
+  "salt": "f59d2c98-7643-4e46-9752-e69e871ad207",
+  "saltParam": 26,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "6479c7da8b725f125af2b8fe"
+  },
+  "name": "hey",
+  "firstname": "yo",
+  "email": "hey@yo.be",
+  "password": "{\"words\":[-1890252177,836433390,34312703,-912832069,1593386158,392323811,563173665,1247649225],\"sigBytes\":32}",
+  "salt": "3910b28d-4d0a-40cf-afd7-2848888af11a",
+  "saltParam": 30,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "647a0d30ea4aa8cb9cdfddab"
+  },
+  "name": "Kartal",
+  "firstname": "Rüveyda",
+  "email": "u@vader.be",
+  "password": "{\"words\":[-2052678131,767300591,-530631785,2098094726,-1329413157,-1757410527,1937313642,-1545815782],\"sigBytes\":32}",
+  "role": "user",
+  "salt": "143af2e5-0d8e-4fdf-af4d-48d08065a85e",
+  "saltParam": 12
+}]

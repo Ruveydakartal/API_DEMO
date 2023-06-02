@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb14c"
+  },
+  "id": 1,
+  "zip": 1000,
+  "city": "Bruxelles",
+  "type": "Huis",
+  "price": 1000000,
+  "bedrooms": 4,
+  "adress": "Rue de la Quart 30",
+  "livingArea": 200,
+  "state": "Te koop",
+  "image": [
+    "../images/huis.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
+  ],
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis.jpg",
+  "office": {
+    "$oid": "64763a3378ef06eb2a3cb153"
+  }
+},
+{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb14d"
+  },
+  "id": 2,
+  "zip": 9000,
+  "city": "Gent",
+  "type": "Appartement",
+  "price": 500000,
+  "bedrooms": 2,
+  "adress": "Rabotstraat 30",
+  "livingArea": 150,
+  "state": "Te koop",
+  "image": [
+    "../images/huis1.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
+  ],
+  "office_id": 1,
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb14e"
+  },
+  "id": 3,
+  "zip": 9030,
+  "city": "Mariakerke",
+  "type": "Huis",
+  "price": 300000,
+  "bedrooms": 4,
+  "adress": "Parklaan 30",
+  "livingArea": 175,
+  "state": "Te koop",
+  "image": [
+    ""
+  ],
+  "office_id": 1,
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb14f"
+  },
+  "id": 4,
+  "zip": 9080,
+  "city": "Lochristi",
+  "type": "Studio",
+  "price": 600,
+  "bedrooms": 4,
+  "adress": "Parklaan 30",
+  "livingArea": 30,
+  "state": "Te huur",
+  "image": [
+    "../images/huis3.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
+  ],
+  "office_id": 1,
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis3.jpg"
+},
+{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb150"
+  },
+  "id": 5,
+  "zip": 9000,
+  "city": "Gent",
+  "type": "Appartement",
+  "price": 1000,
+  "bedrooms": 3,
+  "adress": "Lange violettestraat 30",
+  "livingArea": 30,
+  "state": "Te huur",
+  "image": [
+    "../images/huis4.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
+  ],
+  "office_id": 1,
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6476067a78ef06eb2a3cb151"
+  },
+  "id": 6,
+  "zip": 9000,
+  "city": "Gent",
+  "type": "Appartement",
+  "price": 1000,
+  "bedrooms": 3,
+  "adress": "Lange violettestraat 30",
+  "livingArea": 30,
+  "state": "Te huur",
+  "image": [
+    "../images/huis5.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
+  ],
+  "office_id": 1,
+  "description": "Landelijke energiezuinige woning. Aankoop van de constructie mogelijk aan 6% BTW. (indien u aan de voorwaarden voldoet) Deze landelijke woning bevindt zich in het hart van Denderleeuw, op wandelafstand van het station, winkels, scholen,… Op het gelijkvloers treft u een inkomhal met traphal en toilet, een ruime woonkamer met open ingerichte keuken. Aansluitend aan de keuken bevindt zich de berging. De eerste verdieping bestaat uit 2 slaapkamers, een badkamer en een apart toilet. De grootste slaapkamer is opgedeeld in een dressing en een slaapgedeelte. De badkamer is afgewerkt met een doorloopdouche en een dubbel lavabomeubel.Via de vaste trap betreedt u de zolder. Die wordt casco opgeleverd en kan naar wens worden ingericht. Er zijn naar technieken toe reeds enkele voorzieningen genomen. Buiten aan de woning heb je een carport en een tuin. Door het inzetten op energiezuinige technieken (ventilatiesysteem D en een lucht-water warmtepomp), isolatie en luchtdichtheid kunnen we u garanderen dat het energieverbruik van de woning zeer laag zal liggen. Om dit nog meer kracht bij te zetten voorzien we de woning gratis van zonnepanelen. Werd uw aandacht geprikkeld door deze ruime woning en haar energiezuinig karakter? Voor meer inlichtingen of een bezoek, contacteer Kim. (kim@dermobv.be - 0499432936) voor ons volledige aanbod kan u terecht op www.dermobv.be.",
+  "cover": "../images/huis5.jpg"
+}]

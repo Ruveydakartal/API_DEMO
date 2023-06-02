@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64763a3378ef06eb2a3cb153"
+  },
+  "id": 1,
+  "name": "Bikini Broek",
+  "email": " bikini@broek.be",
+  "tel": "02 123 45 67",
+  "adress": "Bikini straat 1",
+  "image": "../images/bikinibroek.jpg"
+},
+{
+  "_id": {
+    "$oid": "64763a3378ef06eb2a3cb154"
+  },
+  "id": 2,
+  "name": "Under The Sea",
+  "email": " Sea@World.be",
+  "tel": "02 123 45 67",
+  "adress": "Sea World 1",
+  "image": "../images/seaworld.png"
+},
+{
+  "_id": {
+    "$oid": "64763a3378ef06eb2a3cb155"
+  },
+  "id": 3,
+  "name": "Fantasia World",
+  "email": " Fantasia@World.be",
+  "tel": "02 123 45 67",
+  "adress": "Fantasia World 1",
+  "image": "../images/fantasiaworld.jpg"
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6479cd071b9d30090f4520a0"
+  },
+  "propertyId": "6476067a78ef06eb2a3cb14c",
+  "userId": "64790c8007c0a4b51500c94a"
+},
+{
+  "_id": {
+    "$oid": "6479cf04e6a59b6ed76e08d2"
+  },
+  "email": "u@vader.be",
+  "phone": "0789786786",
+  "message": "ik ben je vader",
+  "userId": "64790c8007c0a4b51500c94a"
+}]
